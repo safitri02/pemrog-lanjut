@@ -1,0 +1,6 @@
+E:\21.11.4001\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+E:\21.11.4001\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+E:\21.11.4001\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+E:\21.11.4001\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+E:\21.11.4001\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+E:\21.11.4001\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
